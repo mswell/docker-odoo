@@ -26,4 +26,4 @@ Exemplo: Trocando a porta que o Odoo vai executar para 8050
 ```
 
 
-[![Docker Repository on Quay](https://quay.io/repository/danimaribeiro/docker-odoo/status "Docker Repository on Quay")](https://quay.io/repository/danimaribeiro/docker-odoo)
+[![Docker Repository on Quay](https://quay.io/repository/danimaribeiro/docker-odoo/status "Docker Repository on Quay")](https://quay.io/repository/danimaribeiro/docker-odoo) ![Docker](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?style=flat-square)
